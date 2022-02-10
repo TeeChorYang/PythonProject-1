@@ -1,7 +1,3 @@
-## Code Write By:
-## Tee Chor Yang
-## Lee Jia Qian
-
 import os
 ## Starting Page
 def Start():
