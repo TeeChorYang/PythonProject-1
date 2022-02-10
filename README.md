@@ -1,5 +1,5 @@
 # Python Project
- First Programming Project in Diploma
+ First Programming Project
 
 As a student of Diploma in Information & Communication Technology with a specialism in Software Engineering.
 We are required to create a group Python project(Assignments) for a given problem statement.
