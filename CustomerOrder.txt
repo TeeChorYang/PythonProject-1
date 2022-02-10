@@ -1,0 +1,14 @@
+Qian,103,Claypot Porridge with Prawn,9.80
+Qian,105,Char Kuey Teow,7.80
+Qian,203,Inari,2.80
+Qian,203,Inari,2.80
+Qian,304,Soy Garlic ,12.00
+Qian,903,Macha (Cold),7.00
+Yang,601,GCB,13.00
+Yang,602,Big Mac,12.00
+Yang,603,Cheeseburger,10.00
+Yang,604,McChicken,8.00
+Jiaen,205,Kappa Maki,2.80
+Jiaen,904,Rose Syrup (Cold),2.00
+Gaza,601,GCB,13.00
+Gaza,602,Big Mac,12.00

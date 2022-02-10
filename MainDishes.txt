@@ -1,0 +1,5 @@
+101;Singapore Fried Noodle;7.80;
+102;Penang Laksa;9.80;
+103;Claypot Porridge with Prawn;9.80;
+104;Hainanese chicken rice;7.80;
+105;Char Kuey Teow;7.80;

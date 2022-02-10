@@ -1,0 +1,4 @@
+901;Milk Tea (Hot);5.00;
+902;Milk Tea (Cold);5.00;
+903;Macha (Cold);7.00;
+904;Rose Syrup (Cold);2.00;

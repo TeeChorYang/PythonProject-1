@@ -1,0 +1,5 @@
+Qian,Cash,42.2
+Qian,Card,42.2
+Yang,Cash,30.0
+Jiaen,Card,4.8
+Gaza,Cash,25.0

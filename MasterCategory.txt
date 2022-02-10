@@ -1,0 +1,6 @@
+MainDishes
+Sushi
+KoreanFriedChicken
+Beverage
+Pizza
+Burger

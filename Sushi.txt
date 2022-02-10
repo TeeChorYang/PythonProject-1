@@ -1,0 +1,5 @@
+201;Norwegian Salmon;3.80;
+202;Unagi Slice;3.80;
+203;Inari;2.80;
+204;Chuka Kurage;2.80;
+205;Kappa Maki;2.80;

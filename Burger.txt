@@ -1,0 +1,4 @@
+601;GCB;13.00;
+602;Big Mac;12.00;
+603;Cheeseburger;10.00;
+604;McChicken;8.00;
