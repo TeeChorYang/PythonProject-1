@@ -1,4 +1,4 @@
-# Python Project
+# Food Order Management System
  #First Programming Project #University Assignment #Diploma Level
 
 As a student of Diploma in Information & Communication Technology with a specialism in Software Engineering.
